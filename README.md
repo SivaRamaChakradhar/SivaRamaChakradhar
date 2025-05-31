@@ -85,6 +85,35 @@
 🧠 Solving problems every day to sharpen logic, algorithms, and time-space complexity understanding.
 
 ---
+### 🧠 My Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/Siva_Ram_Chakradhar" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/sivaramisetti" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  
+  <a href="https://www.codechef.com/users/siva524" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/sivaramisetti700" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
+
+### 🧠 My Coding Progress
+
+| Platform | Profile | Problems Solved |
+|----------|---------|-----------------|
+| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white) | [leetcode.com/your-username](https://leetcode.com/Siva_Ram_Chakradhar) | 🟢 150+ |
+| ![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white) | [gfg profile](https://auth.geeksforgeeks.org/user/sivaramisetti) | 🟢 200+ |
+| ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | [codechef.com/users/your-username](https://www.codechef.com/users/siva524) | 🟢 100+ |
+| ![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | [hackerrank.com/your-username](https://www.hackerrank.com/sivaramisetti700) | 🟢 180+ |
+
 
 ### 📚 Currently Learning
 - Spring Boot & REST APIs  
