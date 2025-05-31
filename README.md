@@ -49,9 +49,40 @@
 ---
 
 ### 🚀 My Coding Journey So Far
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-github-username>/<SivaRamaChakradhar>/main/assets/coding.gif" width="500"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Coding Journey" />
 </p>
+
+🧑‍🎓 **NxtWave CCBP 4.0 Learning Path**
+
+- 📘 **Growth Cycle 1**
+  - ✅ Built my **first static website** using **HTML**
+  - ✅ Designed and built a **responsive website** with **HTML + CSS**
+
+- 📘 **Growth Cycle 2**
+  - ✅ Learned **SQL fundamentals** in *Introduction to Databases*
+  - ✅ Built strong programming logic with **Python**
+
+- 📘 **Growth Cycle 3**
+  - ✅ Built a **dynamic web application** using **HTML, CSS, and JavaScript**
+
+- 📘 **Growth Cycle 4** *(currently in progress)*
+  - ✅ Completed **JavaScript Essentials**
+  - 🔄 Learning **Responsive Web Design using Flexbox**
+
+💡 I'm constantly improving through hands-on projects and deep practice.
+
+---
+
+### 💻 Problem Solving Platforms
+
+- 🟢 **LeetCode** – Solving DSA & problem-solving challenges
+- 🔵 **CodeChef** – Competitive programming practice
+- 🟢 **GeeksforGeeks** – Daily DSA & concept sharpening
+- ⚪ **HackerRank** – Python, SQL, and logic building
+
+🧠 Solving problems every day to sharpen logic, algorithms, and time-space complexity understanding.
 
 ---
 
