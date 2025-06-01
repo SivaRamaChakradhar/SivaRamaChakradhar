@@ -15,7 +15,7 @@
 
 ### 🔥 About Me
 - 🎓 I'm currently pursuing **B.Tech 3rd Year in Computer Science (AI & ML)**  
-- 🚀 I’m part of the **NxtWave CCBP 4.0 Intensive Program**  
+- 🚀 I’m part of the **NxtWave CCBP 4.0 Smart Program**  
 - 💻 I'm passionate about **Web Development, Backend Engineering & Cloud Technologies**
 - 🌱 Currently exploring **Spring Boot**, **ReactJS**, and **System Design**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile/sivaramachakradhar-ramisetti) | [Email](mailto:your-sivaramisetti700@gmail.com)
