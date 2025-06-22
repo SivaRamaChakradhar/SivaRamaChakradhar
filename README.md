@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SivaRamaChakradhar&show_icons=true&theme=radical" alt="GitHub stats" />
   <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chvmkiran&theme=dark&hide_border=false">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SivaRamaChakradhar&theme=dark&hide_border=false">
 </p>
 
 ---
