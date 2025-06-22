@@ -4,7 +4,7 @@
 <h3 align="center">An Aspiring Full Stack Developer | B.Tech 3rd Year | NxtWave CCBP 4.0 Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Future+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+Lover;Learning+Spring+Boot+%26+React;Engineering+Student+%7C+NxtWave+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Future+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+Lover;Learning+Spring+Boot+%26+React;Engineering+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
