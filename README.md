@@ -17,7 +17,7 @@
 - 🎓 I'm currently pursuing **B.Tech 3rd Year in Computer Science (AI & ML)**  
 - 🚀 I’m part of the **NxtWave CCBP 4.0 Smart Program**  
 - 💻 I'm passionate about **Web Development, Backend Engineering & Cloud Technologies**
-- 🌱 Currently exploring **Spring Boot**, **ReactJS**, and **System Design**
+- 🌱 Currently exploring **NodeJs**,  **ReactJS**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile/sivaramachakradhar-ramisetti) | [Email](mailto:your-sivaramisetti700@gmail.com)
 
 ---
@@ -104,13 +104,6 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
-
-
-### 📚 Currently Learning
-- Spring Boot & REST APIs  
-- React & Redux  
-- Data Structures and Algorithms  
-- Cloud & Deployment (AWS, Docker)
 
 ---
 
