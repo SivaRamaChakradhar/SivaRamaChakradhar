@@ -4,7 +4,7 @@
 <h3 align="center">An Aspiring Full Stack Developer | B.Tech 3rd Year | NxtWave CCBP 4.0 Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Future+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+Lover;Learning+Spring+Boot+%26+React;Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Future+Full+Stack+Developer;Java+%7C+Python+%7C+SQL;Learning+Spring+Boot+%26+React;Engineering+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 - 🎓 I'm currently pursuing **B.Tech 3rd Year in Computer Science (AI & ML)**  
 - 🚀 I’m part of the **NxtWave CCBP 4.0 Smart Program**  
 - 💻 I'm passionate about **Web Development, Backend Engineering & Cloud Technologies**
-- 🌱 Currently exploring **NodeJs**,  **ReactJS**
+- 🌱 Currently exploring **ReactJS**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile/sivaramachakradhar-ramisetti) | [Email](mailto:your-sivaramisetti700@gmail.com)
 
 ---
