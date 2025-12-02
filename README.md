@@ -33,14 +33,6 @@
 
 ---
 
-## 🧑‍🎓 Learning Journey
-- **Cycle 1:** Built static & responsive websites with **HTML + CSS**  
-- **Cycle 2:** Learned **SQL fundamentals** & strengthened logic with **Python**  
-- **Cycle 3:** Built dynamic apps with **JavaScript**  
-- **Cycle 4 (ongoing):** Advancing in **Responsive Design & ReactJS**  
-
----
-
 ## 💻 Problem-Solving Profiles
 <p align="center">
   <a href="https://leetcode.com/Siva_Ram_Chakradhar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
