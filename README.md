@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Ramisetti Siva Rama Chakradhar</h1>
-<h3 align="center">An Aspiring Full Stack Developer | B.Tech 3rd Year | NxtWave CCBP 4.0 Learner</h3>
+<h3 align="center">Aspiring Full Stack Developer | B.Tech 3rd Year | NxtWave CCBP 4.0 Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Future+Full+Stack+Developer;Java+%7C+Python+%7C+SQL;Learning+Spring+Boot+%26+React;Engineering+Student" alt="Typing SVG" />
@@ -14,11 +14,11 @@
 ---
 
 ### 🔥 About Me
-- 🎓 I'm currently pursuing **B.Tech 3rd Year in Computer Science (AI & ML)**  
-- 🚀 I’m part of the **NxtWave CCBP 4.0 Smart Program**  
-- 💻 I'm passionate about **Web Development, Backend Engineering & Cloud Technologies**
-- 🌱 Currently exploring **ReactJS**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile/sivaramachakradhar-ramisetti) | [Email](mailto:your-sivaramisetti700@gmail.com)
+- 🎓 Pursuing **B.Tech 3rd Year in Computer Science (AI & ML)**
+- 🚀 Learner at **NxtWave CCBP 4.0 Smart Program**
+- 💻 Passionate about **Web Development, Backend Engineering & Cloud Technologies**
+- 🌱 Currently exploring **ReactJS & Spring Boot**
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sivaramachakradhar-ramisetti) | [Email](mailto:sivaramisetti700@gmail.com)
 
 ---
 
@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SivaRamaChakradhar&show_icons=true&theme=radical" alt="GitHub stats" />
   <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SivaRamaChakradhar&theme=dark&hide_border=false">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SivaRamaChakradhar&theme=dark&hide_border=false" alt="GitHub streak stats" />
 </p>
 
 ---
@@ -71,20 +71,21 @@
   - ✅ Completed **JavaScript Essentials**
   - 🔄 Learning **Responsive Web Design using Flexbox**
 
-💡 I'm constantly improving through hands-on projects and deep practice.
+💡 Constantly improving through hands-on projects and deep practice.
 
 ---
 
 ### 💻 Problem Solving Platforms
 
-- 🟢 **LeetCode** – Solving DSA & problem-solving challenges
-- 🔵 **CodeChef** – Competitive programming practice
-- 🟢 **GeeksforGeeks** – Daily DSA & concept sharpening
-- ⚪ **HackerRank** – Python, SQL, and logic building
+- 🟢 **LeetCode** – Solving DSA & problem-solving challenges  
+- 🔵 **CodeChef** – Competitive programming practice  
+- 🟢 **GeeksforGeeks** – Daily DSA & concept sharpening  
+- ⚪ **HackerRank** – Python, SQL, and logic building  
 
-🧠 Solving problems every day to sharpen logic, algorithms, and time-space complexity understanding.
+🧠 Practicing daily to sharpen **logic, algorithms, and time-space complexity understanding**.
 
 ---
+
 ### 🧠 My Coding Profiles
 
 <p align="center">
@@ -115,12 +116,11 @@
 ### 🧑‍💻 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/sivaramachakradhar-ramisetti"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:sivaramisetti700@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/SivaRamaChakradhar"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
 
-_Thank you for visiting! Let's grow together as developers 🚀_
-
+_Thanks for visiting! Let’s grow together as developers 🚀_
