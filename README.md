@@ -1,5 +1,9 @@
 <!-- GitHub Profile README -->
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=SivaRamaChakradhar&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
 <h1 align="center">👨‍💻 Ramisetti Siva Rama Chakradhar</h1>
 <h3 align="center">Aspiring Full Stack Developer | B.Tech CSE (AI & ML) | NxtWave CCBP 4.0 Learner</h3>
 
