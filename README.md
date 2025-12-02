@@ -6,15 +6,17 @@
 ---
 
 ## 🚀 About Me
-- 🎓 3rd Year Computer Science Engineering (AI & ML) student  
-- 🌱 Currently learning **ReactJS**  
-- 💻 Passionate about **Web Development, Backend Engineering, and Cloud Technologies**  
-- 🧩 Love solving **DSA problems** and building side projects  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sivaramachakradhar-ramisetti) | [Email](mailto:sivaramisetti700@gmail.com)
+
+* 🎓 3rd Year Computer Science Engineering (AI & ML) student
+* 🌱 Currently learning **ReactJS**
+* 💻 Passionate about **Web Development, Backend Engineering, and Cloud Technologies**
+* 🧩 Love solving **DSA problems** and building side projects
+* 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sivaramachakradhar-ramisetti) | [Email](mailto:sivaramisetti700@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,python,mysql,spring,git,github,vscode" />
 </p>
@@ -22,6 +24,7 @@
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SivaRamaChakradhar&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SivaRamaChakradhar&theme=tokyonight" height="160" />
@@ -34,6 +37,7 @@
 ---
 
 ## 💻 Problem-Solving Profiles
+
 <p align="center">
   <a href="https://leetcode.com/Siva_Ram_Chakradhar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/sivaramisetti"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
@@ -44,11 +48,13 @@
 ---
 
 ## ⚡ Fun Fact
+
 I enjoy debugging more than coding — because finding the *why* behind an error feels like solving a puzzle 🧩.
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sivaramachakradhar-ramisetti"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:sivaramisetti700@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -57,4 +63,4 @@ I enjoy debugging more than coding — because finding the *why* behind an error
 
 ---
 
-⭐️ _Thanks for stopping by! Let’s build, debug, and grow together 🚀_
+⭐️ *Thanks for stopping by! Let’s build, debug, and grow together 🚀*
