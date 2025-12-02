@@ -1,120 +1,62 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Ramisetti Siva Rama Chakradhar</h1>
-<h3 align="center">Aspiring Full Stack Developer | B.Tech 3rd Year | NxtWave CCBP 4.0 Learner</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Future+Full+Stack+Developer;Java+%7C+Python+%7C+SQL;Learning+Spring+Boot+%26+React;Engineering+Student" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SivaRamaChakradhar&label=Profile+views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+<h1 align="center">👨‍💻 Ramisetti Siva Rama Chakradhar</h1>
+<h3 align="center">Aspiring Full Stack Developer | B.Tech CSE (AI & ML) | NxtWave CCBP 4.0 Learner</h3>
 
 ---
 
-### 🔥 About Me
-- 🎓 Pursuing **B.Tech 3rd Year in Computer Science (AI & ML)**
-- 🚀 Learner at **NxtWave CCBP 4.0 Smart Program**
-- 💻 Passionate about **Web Development, Backend Engineering & Cloud Technologies**
-- 🌱 Currently exploring **ReactJS & Spring Boot**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sivaramachakradhar-ramisetti) | [Email](mailto:sivaramisetti700@gmail.com)
+## 🚀 About Me
+- 🎓 3rd Year Computer Science Engineering (AI & ML) student  
+- 🌱 Currently learning **ReactJS** & **Spring Boot**  
+- 💻 Passionate about **Web Development, Backend Engineering, and Cloud Technologies**  
+- 🧩 Love solving **DSA problems** and building side projects  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sivaramachakradhar-ramisetti) | [Email](mailto:sivaramisetti700@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
-
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,spring,react,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,python,mysql,spring,git,github,vscode" />
 </p>
 
 ---
 
-### 🌟 GitHub Stats
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SivaRamaChakradhar&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SivaRamaChakradhar&theme=tokyonight" height="160" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SivaRamaChakradhar&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SivaRamaChakradhar&theme=dark&hide_border=false" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaRamaChakradhar&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-### 📊 Most Used Languages
+## 🧑‍🎓 Learning Journey
+- **Cycle 1:** Built static & responsive websites with **HTML + CSS**  
+- **Cycle 2:** Learned **SQL fundamentals** & strengthened logic with **Python**  
+- **Cycle 3:** Built dynamic apps with **JavaScript**  
+- **Cycle 4 (ongoing):** Advancing in **Responsive Design & ReactJS**  
 
+---
+
+## 💻 Problem-Solving Profiles
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaRamaChakradhar&layout=compact&theme=tokyonight" />
+  <a href="https://leetcode.com/Siva_Ram_Chakradhar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sivaramisetti"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/siva524"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/sivaramisetti700"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 My Coding Journey So Far
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Coding Journey" />
-</p>
-
-🧑‍🎓 **NxtWave CCBP 4.0 Learning Path**
-
-- 📘 **Growth Cycle 1**
-  - ✅ Built my **first static website** using **HTML**
-  - ✅ Designed and built a **responsive website** with **HTML + CSS**
-
-- 📘 **Growth Cycle 2**
-  - ✅ Learned **SQL fundamentals** in *Introduction to Databases*
-  - ✅ Built strong programming logic with **Python**
-
-- 📘 **Growth Cycle 3**
-  - ✅ Built a **dynamic web application** using **HTML, CSS, and JavaScript**
-
-- 📘 **Growth Cycle 4** *(currently in progress)*
-  - ✅ Completed **JavaScript Essentials**
-  - 🔄 Learning **Responsive Web Design using Flexbox**
-
-💡 Constantly improving through hands-on projects and deep practice.
+## ⚡ Fun Fact
+I enjoy debugging more than coding — because finding the *why* behind an error feels like solving a puzzle 🧩.
 
 ---
 
-### 💻 Problem Solving Platforms
-
-- 🟢 **LeetCode** – Solving DSA & problem-solving challenges  
-- 🔵 **CodeChef** – Competitive programming practice  
-- 🟢 **GeeksforGeeks** – Daily DSA & concept sharpening  
-- ⚪ **HackerRank** – Python, SQL, and logic building  
-
-🧠 Practicing daily to sharpen **logic, algorithms, and time-space complexity understanding**.
-
----
-
-### 🧠 My Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/Siva_Ram_Chakradhar" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  
-  <a href="https://auth.geeksforgeeks.org/user/sivaramisetti" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  
-  <a href="https://www.codechef.com/users/siva524" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  
-  <a href="https://www.hackerrank.com/sivaramisetti700" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-</p>
-
----
-
-### ⚡ Fun Fact
-- I love solving real-world problems with code and building side projects for fun!
-
----
-
-### 🧑‍💻 Let's Connect
-
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sivaramachakradhar-ramisetti"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:sivaramisetti700@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -123,4 +65,4 @@
 
 ---
 
-_Thanks for visiting! Let’s grow together as developers 🚀_
+⭐️ _Thanks for stopping by! Let’s build, debug, and grow together 🚀_
