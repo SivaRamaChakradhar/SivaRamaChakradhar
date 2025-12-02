@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🎓 3rd Year Computer Science Engineering (AI & ML) student  
-- 🌱 Currently learning **ReactJS** & **Spring Boot**  
+- 🌱 Currently learning **ReactJS**  
 - 💻 Passionate about **Web Development, Backend Engineering, and Cloud Technologies**  
 - 🧩 Love solving **DSA problems** and building side projects  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sivaramachakradhar-ramisetti) | [Email](mailto:sivaramisetti700@gmail.com)
